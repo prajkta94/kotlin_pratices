@@ -17,7 +17,7 @@ var num1 =1
 
     }
 
-    var num3 = 70
+    var num3 = 90
     for (i in 1 until 10){
         println("number is ${num3++}")
 
