@@ -6,7 +6,7 @@ fun main(){
         println("You are adult")
 
     }else{
-        println("you are minor")
+        println("you are minor ")
     }
 
 }
